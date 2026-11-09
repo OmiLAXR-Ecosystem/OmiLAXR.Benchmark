@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1
+
+### Changed
+- Updated package version metadata.
+
 ## v1.0.0
 
 First public release of OmiLAXR.Benchmark.

@@ -1,6 +1,6 @@
 {
   "name": "com.rwth.unity.omilaxr.benchmark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "OmiLAXR.Benchmark",
   "description": "This is a package for the OmiLAXR ecosystem to run a benchmark with your tracking configuration.",
   "unity": "2020.3",

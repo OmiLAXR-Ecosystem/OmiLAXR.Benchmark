@@ -37,7 +37,7 @@ Add this to `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.rwth.unity.omilaxr.benchmark": "1.0.0"
+    "com.rwth.unity.omilaxr.benchmark": "1.0.1"
   }
 }
 ```
